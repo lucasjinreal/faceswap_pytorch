@@ -1,0 +1,8 @@
+data/
+checkpoint/
+.idea/
+__pycache__/
+.vscode
+
+demo_faceswap_video.py
+predict_128x128.py
