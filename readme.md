@@ -30,6 +30,18 @@ final result on face swap directly from original big image:
     <img src="https://s2.ax1x.com/2019/02/01/k3BCe1.png">
 </p>
 
+<p align="center>
+	<img src="https://s2.ax1x.com/2019/02/01/k3cQTs.png">
+</p>
+
+<p align="center>
+	<img src="https://s2.ax1x.com/2019/02/01/k3cQTs.png">
+</p>
+
+<p align="center>
+	<img src="https://s2.ax1x.com/2019/02/01/k3c3Yq.png">
+</p>
+
 
 
 As you can see above, we can achieve **high resolution** and seamlessly combination with face transformation. final result on face swap directly from video (to be added soon):
