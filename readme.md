@@ -1,6 +1,6 @@
 # High Resolution Face Swap
 
-**a face swap implementation with much more higher resolution result (128x128) **, this is a promoted and optimized *swap face application* based on GAN tech. our implementation did those changes based on original *deepfakes* implementation:
+**a face swap implementation with much more higher resolution result (128x128)**, this is a promoted and optimized *swap face application* based on GAN tech. our implementation did those changes based on original *deepfakes* implementation:
 
 - *deepfakes* only support 64x64 input, we make it **deeper** and can output 128x128 size;
 - we proposed a new network called *SwapNet, SwapNet128*;
